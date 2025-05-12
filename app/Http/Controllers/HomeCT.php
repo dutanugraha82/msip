@@ -15,4 +15,14 @@ class HomeCT extends Controller
     {
         return view('services');
     }
+
+    public function about()
+    {
+        return view('about');
+    }
+
+    public function contact()
+    {
+        return view('contact');
+    }
 }

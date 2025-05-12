@@ -98,8 +98,8 @@
                   </li>
                   <li><a href="#" class="plus">Lowongan Kerja</a>
                   </li>
-                  <li><a href="#" class="plus">Tentang Kami</a></li>
-                  <li><a href="#" class="plus">Kontak Kami</a></li>
+                  <li><a href="/tentang-kami" class="plus">Tentang Kami</a></li>
+                  <li><a href="/kontak-kami" class="plus">Kontak Kami</a></li>
                 </ul>
               </div>
             </div>
@@ -146,8 +146,8 @@
         <li><a class="active" href="/">Beranda</a></li>
         <li><a href="/pelayanan-kami">Pelayanan Kami</a></li>
         <li><a href="#">Lowongan Kerja</a></li>
-        <li><a href="#">Tentang Kami</a></li>
-        <li><a href="#">Kontak Kami</a></li>
+        <li><a href="/tentang-kami">Tentang Kami</a></li>
+        <li><a href="/kontak-kami">Kontak Kami</a></li>
       </ul>
 
       <div class="allmobilesection">
