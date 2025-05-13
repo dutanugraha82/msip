@@ -7,7 +7,7 @@
   <title>MSIP | @yield('title')</title>
 
   <!--=====FAB ICON=======-->
-  <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo.png') }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo1.png') }}" type="image/x-icon">
 
   <!--===== CSS LINK =======-->
   <link rel="stylesheet" href="{{ asset('assets/css/plugins/bootstrap.min.css') }}">
