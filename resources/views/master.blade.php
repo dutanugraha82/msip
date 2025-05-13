@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MSIP | @yield('title')</title>
+  <title>Misuli | @yield('title')</title>
 
   <!--=====FAB ICON=======-->
   <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo1.png') }}" type="image/x-icon">
