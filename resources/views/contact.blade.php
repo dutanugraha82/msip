@@ -52,7 +52,7 @@
                 </div>
                 <div class="content">
                   <p>Email Address</p>
-                  <a href="mailto:Infoseoc@gmail.com">misuli_msp@yahoo.co.id</a>
+                  <a href="mailto:recruitment@misuli.co.id">recruitment@misuli.co.id</a>
                 </div>
               </div>
             </div>

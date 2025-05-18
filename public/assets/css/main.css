@@ -6303,7 +6303,7 @@ Location:
 .footer1-section-area {
   position: relative;
   z-index: 1;
-  padding: 222px 0 32px;
+  padding: 60px 0 32px;
   background: #F2F3F3;
 }
 .footer1-section-area .footer-logoarea {
@@ -6495,6 +6495,25 @@ Location:
     line-height: 28px;
   }
 }
+
+.alamat-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  color: var(--ztc-text-text-3);
+  font-family: var(--ztc-family-font1);
+  font-size: var(--ztc-font-size-font-s16);
+  line-height: 1.5;
+}
+
+.alamat-wrapper svg {
+  width: 18px;
+  height: 18px;
+  margin-top: 4px; /* biar sejajar atas teks */
+  flex-shrink: 0;
+}
+
+
 
 .footer2-section-area {
   position: relative;
