@@ -33,9 +33,9 @@
             <div class="img1 image-anime reveal">
               <img src="{{ asset('assets/img/logo/service2.jpg') }}" alt="service2">
             </div>
-            <div class="author-img aniamtion-key-1">
+            {{-- <div class="author-img aniamtion-key-1">
               <img src="{{ asset('assets/img/logo/logo.png') }}" alt="logo">
-            </div>
+            </div> --}}
           </div>
         </div>
         <div class="col-lg-1"></div>

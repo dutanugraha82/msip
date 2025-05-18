@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MSIP | @yield('title')</title>
+  <title>MISULI | @yield('title')</title>
 
   <!--=====FAB ICON=======-->
   <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo.png') }}" type="image/x-icon">
@@ -192,19 +192,19 @@
   <!--===== FOOTER AREA STARTS =======-->
   <div class="footer1-section-area">
     <div class="container">
-      {{-- <div class="row"> --}}
-        {{-- <div class="col-lg-3 col-md-6">
-          <div class="footer-logoarea">
-            <img src="{{ asset('assets/img/logo/logo.png') }}" alt="housebox">
-            <div class="space24"></div>
-            <div class="space24"></div>
-            
-          </div>
-        </div> --}}
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+              <div class="footer-logoarea">
+                <img src="{{ asset('assets/img/logo/logo.png') }}" alt="housebox">
+                <div class="space24"></div>
+                <div class="space24"></div>
+                
+              </div>
+            </div>
 
-        {{-- <div class="col-lg-3 col-md-6">
+     <div class="col-lg-3 col-md-6">
           <div class="footer-content">
-            <h3>Quick Links</h3>
+            <h3>Navigasi Cepat</h3>
             <div class="space4"></div>
             <ul>
               <li><a href="/">Beranda</a></li>
@@ -214,9 +214,9 @@
               <li><a href="/kontak-kami">Kontak Kami</a></li>
             </ul>
           </div>
-        </div> --}}
+        </div>
 
-        {{-- <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6">
           <div class="footer-content2">
             <h3>Alamat Kami</h3>
             <div class="space4"></div>
@@ -227,71 +227,9 @@
                   </svg><span>Plaza Metropolitan Blok B AL NO. 7-8 Jl Sultan Hasanudin Tambun - Bekasi</span></a></li>
             </ul>
           </div>
-        </div> --}}
-
-        {{-- <div class="col-lg-3 col-md-6">
-          <div class="instagram-posts">
-            <h3>Instagram Posts</h3>
-            <div class="space8"></div>
-            <div class="row">
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img1.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img2.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img3.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img4.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img5.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-4">
-                <div class="img1">
-                  <img src="{{ asset('assets/img/all-images/footer/footer-img6.png') }}" alt="housebox">
-                  <div class="icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> --}}
-      {{-- </div> --}}
-      {{-- <div class="space60"></div> --}}
+        </div>
+      </div>
+      <div class="space60"></div>
       <div class="row">
         <div class="col-lg-12">
           <div class="copyright text-center">
