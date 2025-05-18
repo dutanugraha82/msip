@@ -4,10 +4,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MISULI | @yield('title')</title>
+  <title>Misuli | @yield('title')</title>
 
   <!--=====FAB ICON=======-->
-  <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo.png') }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ asset('assets/img/logo/logo1.png') }}" type="image/x-icon">
 
   <!--===== CSS LINK =======-->
   <link rel="stylesheet" href="{{ asset('assets/css/plugins/bootstrap.min.css') }}">
