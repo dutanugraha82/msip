@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -174,7 +175,7 @@
                 </svg>
               </div>
               <div class="contact-info-text">
-                <a href="mailto:hrd@misulisuburperdana.com">hrd@misulisuburperdana.com</a>
+                <a href="mailto:recruitment@misuli.co.id">recruitment@misuli.co.id</a>
               </div>
             </div>
           </div>
@@ -191,15 +192,15 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-6">
-              <div class="footer-logoarea">
-                <img src="{{ asset('assets/img/logo/logo.png') }}" alt="housebox">
-                <div class="space24"></div>
-                <div class="space24"></div>
-                
-              </div>
-            </div>
+          <div class="footer-logoarea">
+            <img src="{{ asset('assets/img/logo/logo.png') }}" alt="housebox">
+            <div class="space24"></div>
+            <div class="space24"></div>
 
-     <div class="col-lg-3 col-md-6">
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6">
           <div class="footer-content">
             <h3>Navigasi Cepat</h3>
             <div class="space4"></div>
@@ -219,9 +220,18 @@
             <div class="space4"></div>
             <ul>
 
-              <li><a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+              <!-- <li><a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M18.364 17.364L12 23.7279L5.63604 17.364C2.12132 13.8492 2.12132 8.15076 5.63604 4.63604C9.15076 1.12132 14.8492 1.12132 18.364 4.63604C21.8787 8.15076 21.8787 13.8492 18.364 17.364ZM12 15C14.2091 15 16 13.2091 16 11C16 8.79086 14.2091 7 12 7C9.79086 7 8 8.79086 8 11C8 13.2091 9.79086 15 12 15ZM12 13C10.8954 13 10 12.1046 10 11C10 9.89543 10.8954 9 12 9C13.1046 9 14 9.89543 14 11C14 12.1046 13.1046 13 12 13Z"></path>
-                  </svg><span>Plaza Metropolitan Blok B AL NO. 7-8 Jl Sultan Hasanudin Tambun - Bekasi</span></a></li>
+                  </svg><span>Plaza Metropolitan Blok B AL NO. 7-8 Jl Sultan Hasanudin Tambun - Bekasi</span></a></li> -->
+              <li>
+                <div class="alamat-wrapper">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M18.364 17.364L12 23.7279L5.63604 17.364C2.12132 13.8492 2.12132 8.15076 5.63604 4.63604C9.15076 1.12132 14.8492 1.12132 18.364 4.63604C21.8787 8.15076 21.8787 13.8492 18.364 17.364ZM12 15C14.2091 15 16 13.2091 16 11C16 8.79086 14.2091 7 12 7C9.79086 7 8 8.79086 8 11C8 13.2091 9.79086 15 12 15ZM12 13C10.8954 13 10 12.1046 10 11C10 9.89543 10.8954 9 12 9C13.1046 9 14 9.89543 14 11C14 12.1046 13.1046 13 12 13Z"></path>
+                  </svg>
+                  <span>Plaza Metropolitan Blok B AL NO. 7-8<br>Jl Sultan Hasanudin Tambun - Bekasi</span>
+                </div>
+              </li>
+              
             </ul>
           </div>
         </div>
@@ -261,4 +271,5 @@
   </script>
 
 </body>
+
 </html>
