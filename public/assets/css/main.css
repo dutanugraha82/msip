@@ -7290,7 +7290,7 @@ Location:
   display: inline-block;
 }
 .homepage1-body .header-area.homepage1 .header-top-area .header-content li span {
-  color: #224F4E;
+  color: #ffffff;
   display: inline-block;
   margin: 0 8px;
 }
@@ -7365,7 +7365,7 @@ Location:
   gap: 5px;
 }
 .homepage1-body .header-area.homepage1 .header-top-area .list-content li .signin span {
-  color: #224F4E;
+  color: #f7f7f7;
   display: inline-block;
   margin: 0 12px 0 0;
 }
@@ -7598,12 +7598,28 @@ Location:
   transition: all 0.4s;
   color: var(--ztc-text-text-5) !important;
 }
-.homepage1-body .header-area.homepage1 .header-elements .main-menu ul li:hover > a::after {
+.homepage1-body .header-area.homepage1 .header-elements .main-menu ul li > a.active::after {
   visibility: visible;
   opacity: 1;
   width: 100%;
   left: 0;
 }
+
+/* Definisi dasar elemen ::after, agar bisa diberi efek hover/active */
+.homepage1-body .header-area.homepage1 .header-elements .main-menu ul li > a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  background-color: var(--ztc-text-text-5); /* Ganti warna underline */
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+
+
 .homepage1-body .header-area.homepage1 .header-elements .main-menu ul li .tp-submenu {
   visibility: hidden;
   opacity: 0;

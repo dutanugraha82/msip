@@ -105,9 +105,9 @@
 
 Maka dengan ini LPK MISULI adalah Lembaga Pelatihan Kerja yang menyelenggarakan Pelatihan dengan Surat Izin Pendirian Lembaga Pelatihan Kerja (IPLPK) No. 503/3783/7/IPLPK/IV/DP-MPTSP/2018.</p>
                   <div class="space24"></div>
-                  <a href="{{ asset('assets/img/logo/pemagangan1.png') }}" target="_blank" class="readmore">Alur Sistem Pemagangan <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                  {{-- <a href="{{ asset('assets/img/logo/pemagangan1.png') }}" target="_blank" class="readmore">Alur Sistem Pemagangan <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                       <path d="M13.0508 12.361L7.39395 18.0179L5.97974 16.6037L11.6366 10.9468L6.68684 5.99707H18.0006V17.3108L13.0508 12.361Z"></path>
-                    </svg></a>
+                    </svg></a> --}}
                 </div>
               </div>
             </div>
@@ -136,13 +136,13 @@ Maka dengan ini LPK MISULI adalah Lembaga Pelatihan Kerja yang menyelenggarakan 
               </div>
               <div class="col-lg-2"></div>
               <div class="col-lg-5" data-aos="zoom-in" data-aos-duration="1000">
-                <div class="btn-area1 text-center">
+                {{-- <div class="btn-area1 text-center">
                   <a href="{{ asset('assets/img/logo/proses-recruitment2.png') }}" class="theme-btn1">Lihat Flowchart <span class="arrow1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
                         <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
                       </svg></span><span class="arrow2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
                         <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
                       </svg></span></a>
-                </div>
+                </div> --}}
               </div>
             </div>
           </div>
@@ -163,13 +163,13 @@ Maka dengan ini LPK MISULI adalah Lembaga Pelatihan Kerja yang menyelenggarakan 
               </div>
               <div class="col-lg-2"></div>
               <div class="col-lg-5" data-aos="zoom-in" data-aos-duration="1000">
-                <div class="btn-area1 text-center">
+                {{-- <div class="btn-area1 text-center">
                   <a href="{{ asset('assets/img/logo/proses-recruitment.png') }}" class="theme-btn1">Lihat Flowchart <span class="arrow1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
                         <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
                       </svg></span><span class="arrow2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
                         <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
                       </svg></span></a>
-                </div>
+                </div> --}}
               </div>
             </div>
           </div>
