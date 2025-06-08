@@ -176,7 +176,7 @@ Maka dengan ini LPK MISULI adalah Lembaga Pelatihan Kerja yang menyelenggarakan 
         </div>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
   <!--===== CTA AREA ENDS =======-->
 
 @endsection
