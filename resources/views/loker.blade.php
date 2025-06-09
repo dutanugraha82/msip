@@ -83,7 +83,7 @@
                         <div class="card-body text-center">
                             {{-- <a href="#" class="btn-area1">Lamar Sekarang</a> --}}
                             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1000">
-                                <a href="/lowongan-kerja" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
+                                <a href="/kontak-kami" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
                                             height="24" fill="currentColor">
                                             <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
@@ -143,7 +143,7 @@
                         <div class="card-body text-center">
                             {{-- <a href="#" class="btn-area1">Lamar Sekarang</a> --}}
                             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1000">
-                                <a href="/lowongan-kerja" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
+                                <a href="/kontak-kami" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
                                             height="24" fill="currentColor">
                                             <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
@@ -203,7 +203,7 @@
                         <div class="card-body text-center">
                             {{-- <a href="#" class="btn-area1">Lamar Sekarang</a> --}}
                             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1000">
-                                <a href="/lowongan-kerja" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
+                                <a href="/kontak-kami" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
                                             height="24" fill="currentColor">
                                             <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
@@ -288,7 +288,7 @@
                         <div class="card-body text-center">
                             {{-- <a href="#" class="btn-area1">Lamar Sekarang</a> --}}
                             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1000">
-                                <a href="/lowongan-kerja" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
+                                <a href="/kontak-kami" class="theme-btn1">Lamar Sekarang<span class="arrow1"><svg
                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
                                             height="24" fill="currentColor">
                                             <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
