@@ -349,7 +349,7 @@ Beranda
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team1-section-area sp2">
+<div class="team1-section-area sp1">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 m-auto">
@@ -366,7 +366,7 @@ Beranda
 
           @for ($i = 1; $i <= 20; $i++)
             <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
+            <div class="img3 image-anime">
               <img src="{{ asset('assets/img/logo/galeri' . $i . '.jpeg') }}" alt="Galeri {{ $i }}">
             </div>
         </div>

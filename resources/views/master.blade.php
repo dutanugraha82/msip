@@ -38,7 +38,7 @@
         }
     </style>
     <style>
-        .propety-single-boxarea .img1 {
+        .propety-single-boxarea .img3 {
             width: 100%;
             height: 225px;
             /* Tinggi untuk format lanskap, bisa disesuaikan */
@@ -46,7 +46,7 @@
             border-radius: 10px;
         }
 
-        .propety-single-boxarea .img1 img {
+        .propety-single-boxarea .img3 img {
             width: 100%;
             height: 100%;
             object-fit: cover;
