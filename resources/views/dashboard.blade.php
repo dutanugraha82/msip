@@ -363,76 +363,20 @@ Beranda
     <div class="row">
       <div class="col-lg-12" data-aos="fade-up" data-aos-duration="1000">
         <div class="property-single-slider owl-carousel">
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri2.jpeg') }}" alt="housebox">
-            </div>
-          </div>
 
-          <div class="propety-single-boxarea">
+          @for ($i = 1; $i <= 20; $i++)
+            <div class="propety-single-boxarea">
             <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri3.jpeg') }}" alt="housebox">
+              <img src="{{ asset('assets/img/logo/galeri' . $i . '.jpeg') }}" alt="Galeri {{ $i }}">
             </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri4.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri5.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri6.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri7.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri8.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri9.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri10.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri11.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
-          <div class="propety-single-boxarea">
-            <div class="img1 image-anime">
-              <img src="{{ asset('assets/img/logo/galeri12.jpeg') }}" alt="housebox">
-            </div>
-          </div>
-
         </div>
+        @endfor
+
+
       </div>
     </div>
   </div>
+</div>
 </div>
 <!--===== TEAM AREA ENDS =======-->
 @endsection

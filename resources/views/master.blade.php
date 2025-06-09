@@ -53,6 +53,13 @@
             /* Potong gambar agar pas dalam kotak */
             display: block;
         }
+
+        .property-single-slider .owl-nav,
+        .property-single-slider .owl-nav button {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+        }
     </style>
 
     <!--=====  JS SCRIPT LINK =======-->
