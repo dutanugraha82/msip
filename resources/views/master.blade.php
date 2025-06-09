@@ -184,7 +184,7 @@
             <ul class="mobile-nav-list nav-list1">
                 <li><a class="plus active" href="/">Beranda</a></li>
                 <li><a href="/pelayanan-kami">Pelayanan Kami</a></li>
-                <li><a href="#">Lowongan Kerja</a></li>
+                <li><a href="/loker">Lowongan Kerja</a></li>
                 <li><a href="/tentang-kami">Tentang Kami</a></li>
                 <li><a href="/kontak-kami">Kontak Kami</a></li>
             </ul>
@@ -255,7 +255,7 @@
                         <ul>
                             <li><a href="/">Beranda</a></li>
                             <li><a href="/pelayanan-kami">Pelayanan Kami</a></li>
-                            <li><a href="/lowongan-kerja">Lowongan Kerja</a></li>
+                            <li><a href="/loker">Lowongan Kerja</a></li>
                             <li><a href="/tentang-kami">Tentang Kami</a></li>
                             <li><a href="/kontak-kami">Kontak Kami</a></li>
                         </ul>
