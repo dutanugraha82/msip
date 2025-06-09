@@ -5,7 +5,7 @@
 @section('content')
     <div class="hero-area-slider">
     <div class="hero1-section-area">
-      <img src="{{ asset('assets/img/logo/banner1.png') }}" alt="housebox" class="hero-img1">
+      <img src="{{ asset('assets/img/logo/galeri20.jpeg') }}" alt="housebox" class="hero-img1">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">

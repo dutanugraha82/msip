@@ -25,4 +25,9 @@ class HomeCT extends Controller
     {
         return view('contact');
     }
+
+     public function loker()
+    {
+        return view('loker');
+    }
 }

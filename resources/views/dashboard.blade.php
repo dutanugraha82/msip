@@ -5,7 +5,7 @@
 @section('content')
     <div class="hero-area-slider">
     <div class="hero1-section-area">
-      <img src="{{ asset('assets/img/logo/banner1.png') }}" alt="housebox" class="hero-img1">
+      <img src="{{ asset('assets/img/logo/galeri14.jpeg') }}" alt="housebox" class="hero-img1">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -27,7 +27,29 @@
     </div>
 
     <div class="hero1-section-area">
-       <img src="{{ asset('assets/img/logo/banner.jpg') }}" alt="housebox" class="hero-img1">
+       <img src="{{ asset('assets/img/logo/galeri12.jpeg') }}" alt="housebox" class="hero-img1">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="hero-header-area text-center">
+              <div class="space32"></div>
+              <h1>PT MISULI SUBUR PERDANA</h1>
+              <div class="space40"></div>
+              <div class="btn-area1">
+                <a href="/tentang-kami" class="theme-btn1">Tentang Kami <span class="arrow1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                      <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
+                    </svg></span><span class="arrow2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                      <path d="M12 13H4V11H12V4L20 12L12 20V13Z"></path>
+                    </svg></span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero1-section-area">
+       <img src="{{ asset('assets/img/logo/galeri11.jpeg') }}" alt="housebox" class="hero-img1">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
