@@ -37,6 +37,24 @@
             box-shadow: none !important;
         }
     </style>
+    <style>
+        .propety-single-boxarea .img1 {
+            width: 100%;
+            height: 225px;
+            /* Tinggi untuk format lanskap, bisa disesuaikan */
+            overflow: hidden;
+            border-radius: 10px;
+        }
+
+        .propety-single-boxarea .img1 img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* Potong gambar agar pas dalam kotak */
+            display: block;
+        }
+    </style>
+
     <!--=====  JS SCRIPT LINK =======-->
     <script src="{{ asset('assets/js/plugins/jquery-3-7-1.min.js') }}"></script>
 </head>

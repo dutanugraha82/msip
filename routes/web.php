@@ -7,3 +7,4 @@ Route::get('/', [HomeCT::class, 'index']);
 Route::get('/pelayanan-kami', [HomeCT::class, 'services']);
 Route::get('/tentang-kami', [HomeCT::class, 'about']);
 Route::get('/kontak-kami', [HomeCT::class, 'contact']);
+Route::get('/loker', [HomeCT::class, 'loker']);
